@@ -2,7 +2,7 @@
 set -e
 opt_zen="/opt/zen"
 bin_zen="/usr/local/bin/zen"
-zen_file="zen.linux-x86_64.tar.bz2"
+zen_file="zen.linux-aarch64.tar.bz2"
 
 update_browser() {
     if [ -f /usr/local/bin/browser.py ]; then
